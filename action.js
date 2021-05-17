@@ -1,19 +1,12 @@
-<script src="./action.js"></script>
+function red_btn(){
+    document.body.style.background="red"
+}
 
+function green_btn(){
+    document.body.style.background="green"
+}
 
-
-
-function purple__btn(){
-    document.body.style.background="purple"
-   }
-   
-   
-   function green__btn()
-   {
-   document.body.style.background="red"
-   }
-   
-   function yellow__btn(){
-       document.body.style.background="green"
-   }
+function yellow_btn(){
+    document.body.style.background="yellow"   
+}
    
